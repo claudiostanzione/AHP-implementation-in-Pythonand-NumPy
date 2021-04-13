@@ -1,4 +1,4 @@
-# AHP-implementation-in-Pythonand-NumPy
+# AHP-implementation-in-Python-and-NumPy
 Implement the Analytic Hierarchy Process (AHP) as a Python program.
 
 Requests:
